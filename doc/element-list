@@ -1,0 +1,10 @@
+JTrash.controller
+JTrash.controller.audio
+JTrash.controller.util
+JTrash.model.card
+JTrash.model.card.actions
+JTrash.model.data
+JTrash.model.manager
+JTrash.model.observable
+JTrash.model.player
+JTrash.view

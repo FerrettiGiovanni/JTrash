@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"JTrash.controller"},{"l":"JTrash.controller.audio"},{"l":"JTrash.controller.util"},{"l":"JTrash.model.card"},{"l":"JTrash.model.card.actions"},{"l":"JTrash.model.data"},{"l":"JTrash.model.manager"},{"l":"JTrash.model.observable"},{"l":"JTrash.model.player"},{"l":"JTrash.view"}];updateSearchResults();
